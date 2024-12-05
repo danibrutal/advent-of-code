@@ -1,0 +1,8 @@
+{
+  "name": "adventofcode-1",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "countRight": "node countRight.js"
+  }
+}
