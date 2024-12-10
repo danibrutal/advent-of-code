@@ -19,4 +19,6 @@ for (let i = 0; i < allAntenas.length - 1; i++) {
   }
 }
 
-testOutput(map, antinodesSet);
+console.log(antinodesSet.size);
+
+//testOutput(map, antinodesSet);
